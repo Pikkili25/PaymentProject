@@ -1,0 +1,45 @@
+.cen {
+    position: absolute;
+    border: 5px solid rgb(0, 0, 0);
+    text-align: center;
+    vertical-align: middle;
+    padding: 250px 400px;
+    top:35px;
+    left: 250px;
+    background-image:url("https://t3.ftcdn.net/jpg/04/34/82/70/360_F_434827021_Es0jUoe8ZIiL9Wh7tSSO5BUK4a6QZk3e.jpg"); 
+    background-repeat:no-repeat; 
+    background-position:center; 
+    background-size:cover; 
+}
+.sec1 {
+    position: absolute;
+    color: rgb(2, 2, 2);
+    padding: 42px 240px;
+    text-align: center;
+    left: 0.5px;
+    top: 0.5px;
+}
+
+p {
+    font-size: 15pt; 
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-weight: bolder;
+}
+.lef {
+    text-align: left;
+    font-size: 12pt; 
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+input {
+    height: 30px; 
+    width: 320px;
+}
+button {
+    width: 80px; 
+    height: 30px; 
+    font-weight: 900;
+}
+a {
+    color: rgb(255, 8, 8);
+}
